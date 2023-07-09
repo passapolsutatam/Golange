@@ -1,0 +1,8 @@
+1.cmd
+2.go mod init {filename}
+
+3.create program.go
+ 3.1.install all
+ 3.2.Extention Error lens
+
+4.go run {filename} or file->preferences->setting->code runner -> run in terminal
